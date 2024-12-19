@@ -8,7 +8,7 @@ Results could be found in the end.
 
 ## Features
 
-### Assignment 2: Manipulator Geometry and Direct Kinematics
+### Manipulator Geometry and Direct Kinematics
 This part focuses on:
 
 - **Geometry Definition:** Defining the manipulator model using transformation matrices.
@@ -24,15 +24,15 @@ This part focuses on:
 - Plots demonstrating the position and orientation of the manipulator during movement.
 - Smooth interpolation between joint configurations using stepwise motion planning.
 
-### Assignment 3: Jacobian Matrix and Inverse Kinematics
+### Jacobian Matrix and Inverse Kinematics
 
-#### **Exercise 1: Jacobian Matrix**
+#### *Jacobian Matrix**
 - **Objective:** Compute the Jacobian matrix for different joint configurations.
 - **Results:**
   - End-effector Jacobians calculated for precise control of the manipulator.
   - Demonstrated the relationship between joint velocities and end-effector velocities.
 
-#### **Exercise 2 and 3: Inverse Kinematics Control**
+#### **Inverse Kinematics Control**
 - **Objective:** Implement inverse kinematics to control the manipulator's end-effector.
 - **Steps:**
   1. Calculate the error between the current and desired end-effector poses.

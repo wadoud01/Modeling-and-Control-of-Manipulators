@@ -84,7 +84,16 @@ This part focuses on:
 - Animated simulations show smooth transitions between configurations.
 - Jacobian computation enables precise control over end-effector motion.
 - Inverse kinematics ensure the manipulator achieves target positions and orientations.
-<img src="MCM Results/FKP.gif" alt="BOH" width="300"/>
+
+**Forward Kenimatics Results:**
+
+<img src="MCM Results/FKP.gif" alt="BOH" width="400"/>
+
+**Inversre Kenimatics Results:**
+
+<img src="MCM Results/IKP.gif" alt="BOH" width="400"/>
+
+
 ---
 
 ## Authors

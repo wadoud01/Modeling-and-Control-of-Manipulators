@@ -79,20 +79,6 @@ This part focuses on:
 
 ---
 
-## Usage
-
-### Run Assignment 2:
-```matlab
-run('assignment2.m')
-```
-
-### Run Assignment 3:
-```matlab
-run('assignment3.m')
-```
-
----
-
 ## Results Overview
 - The manipulator's poses and trajectories are visualized in 3D plots.
 - Animated simulations show smooth transitions between configurations.
